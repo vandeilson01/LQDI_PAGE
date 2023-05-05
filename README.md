@@ -18,7 +18,7 @@
 
 **Baixar Teste**
 ```
-$ git clone https://github.com/vandeilson01/LQDI_Teste
+$ git clone https://github.com/vandeilson01/LQDI_Teste.git
 ````
 **Iniciar Backend**
 ```
