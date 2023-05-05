@@ -7,48 +7,48 @@
 
  Este é o teste feito pela empresa LQDI Digital e realizado pelo autor deste repositório para a vaga de
  desenvolvedor Desenvolvedor PHP Sênior/Pleno.
-  
-## 🚗 Executar o projeto(Siga as instruções abaixo para execução)
+ 
+ 
+ <h5>Nota: As inscrições também estão sendo salvas em Json porem casa inscrião tem seu proprio aqruivo e 
+	o nome de cada arquivo é o mesmo que o ID da inscrição</h5>
 
+**<a href='https://youtu.be/wbUN55Y-QBg'>Demostração</a>**
+
+## 🕸️ Baixar e Executar o projeto(Siga as instruções abaixo para execução)
+
+**° Baixar Teste**
 ```
-°
-$ git clone project.git
-
-**°...**
-$ backend 
-$ cd\back
+$ git clone https://github.com/vandeilson01/LQDI_Teste
+````
+**°Iniciar Backend**
 ```
+Acessar pasta
+$ cd\backend
 
-
-//instalar as depedencias do composer
-
-```
-°
+Instalar as depedências do composer
 $ composer install
 
-° caso queira somente atualizar
+Caso queira somente atualizar
 $ composer update
 
-° crie o arquivo de configurações
+Criando o arquivo de configurações
 $ cp .env.example .env
 
-° gerando chave do projeto
+Gerando chave do projeto
 $ php artisan key:generate
 ```
-
+**Banco de dados**
 
 ```
-
-//criar banco de dados
-
-//no seu banco de dados
+No seu banco de dados
 
 CREATE DATABASE `laravel`
 ou
 CREATE DATABASE laravel
 ```
+
+**No arquivo .env deve ficar assim**
 ```
-//no arquivo de configurção .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
@@ -57,21 +57,26 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
-
+**Gerando banco de dados e informações**
 ```
-**voltando ao backend**
+Tabelas e informações iniciais
 $ php artisan migrate --seed
 
+Dados de emails interessados
 $ php artisan db:seed MailsSeeder
 
+Dados de inscrições
 $ php artisan db:seed RegistrationSeeder
-
 ```
 
-//configurar o recebebimento de emails 
-//MailTrap 
+**Configurar o recebebimento de emails com MailTrap** 
+<h4>Acesse o <a href="https://mailtrap.io/">Mailtrap</a> e crie uma conta</h4>
+<img src="">
 
-////no arquivo de configurção .env
+<h4>Copie os dados de congiruações e substitua no .env</h4>
+
+**No arquivo .env deve ficar assim**
+```
 MAIL_MAILER=smtp
 MAIL_HOST=sandbox.smtp.mailtrap.io
 MAIL_PORT=2525
@@ -80,75 +85,99 @@ MAIL_PASSWORD=senha
 MAIL_ENCRYPTION=tls
 ```
 
+**Rode o Backend na sua maquina**
 ```
-**°...**
 $ php artisan serve
-
 ```
-
-
-**links**
-
-```
-http://localhost:8000
-
-//rotas da api 
-//interessados
-http://localhost:8000/mails :get
-http://localhost:8000/email/plus :post
-
-//inscricoes
-http://localhost:8000/registrations :get
-http://localhost:8000/email/send :post
-```
-
-
+	
 
 **Frontend**
 ```
+Acessar pasta
 $ cd ..
-$ cd /front
-**instalar depedências**
-$ npm install
+$ cd /frontend
 
-**iniciar front end do projeto**
+Instalar depedências
+$ npm install
+```
+
+**Rode o Frontend na sua maquina**
+```
 $ npm start
 
-**(opcional)**
-**Rodar testes**
+(opcional)
+
+Rodar testes
 $ npm teste
 
-**Rodar em produção**
+Rodar em produção
 $ npm run build
 ```
 
+## 🔗 Links 
+
+
+**Backend**
+
+```
+Rotas da API
+
+Principal: 
+(get): http://localhost:8000
+
+Iinteressados
+(get): http://localhost:8000/mails
+(post): http://localhost:8000/email/plus
+
+Inscrições:
+(get): http://localhost:8000/registrations
+(post): http://localhost:8000/email/send 
 
 ```
 
-**Links**
+**Frontend**
 
-http://localhost:3000/
+```
+Rotas das Páginas
+
+Home:
+(get): http://localhost:3000/
 ou
-http://localhost:3000/home
+(get): http://localhost:3000/home
 
-//interessados
-http://localhost:3000/mails
+Interessados:
+(get): http://localhost:3000/mails
 
-//inscricoes
-http://localhost:3000/registrations
+Inscricoes:
+(get): http://localhost:3000/registrations
 
 
-//pagina não encontrada
-http://localhost:3000/*
-
+Página 404:
+(get): http://localhost:3000/*
 ```
 
+## 📚 Pastas
 
-<h3>Telas</h3>
 
-**Página principal**
+**Backend**
 <img src="https://user-images.githubusercontent.com/60020510/193612061-92155fbc-28b0-4b6d-b19f-cfd0c3f66629.png">
+
+**Frontend**
+<img src="https://user-images.githubusercontent.com/60020510/193612061-92155fbc-28b0-4b6d-b19f-cfd0c3f66629.png">
+
+## 🚅 Telas
+
+**Desktop**
+<img src="https://user-images.githubusercontent.com/60020510/193612061-92155fbc-28b0-4b6d-b19f-cfd0c3f66629.png">
+
+**Mobile**
 <img src="https://user-images.githubusercontent.com/60020510/193612097-35104bb2-b400-4ea0-bafe-c59b4eb302d8.png">
+
+
+**Ação Formulario de Inscrições**
+<img src="https://user-images.githubusercontent.com/60020510/193612097-35104bb2-b400-4ea0-bafe-c59b4eb302d8.png">
+<img src="https://user-images.githubusercontent.com/60020510/193612097-35104bb2-b400-4ea0-bafe-c59b4eb302d8.png">
+
 
 
 
@@ -192,11 +221,6 @@ http://localhost:3000/*
 - Jquery
 
 <br/>
-
-//demostracao
-
-https://youtu.be/wbUN55Y-QBg
-
 
 ## 🙂 Autor
 
