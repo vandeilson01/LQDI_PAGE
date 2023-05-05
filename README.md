@@ -12,7 +12,7 @@
  <h5>Nota: As inscrições também estão sendo salvas em Json porem cada inscrião tem seu proprio arquivo e 
 	o nome de cada arquivo é o mesmo que o Código ID da inscrição.</h5>
 
-**<a href='https://youtu.be/wbUN55Y-QBg'>Vídeo de Demostração</a>**
+**<a href='https://youtu.be/nQog__XMpnE'>Vídeo de Demostração</a>**
 
 ## 🕸️ Baixar e Executar o projeto(Siga as instruções abaixo para execução)
 
