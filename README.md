@@ -95,10 +95,13 @@ $ php artisan serve
 ```
 Acessar pasta
 $ cd ..
-$ cd /frontend
+$ cd frontend
 
 Instalar depedências
 $ npm install
+
+Caso queira somente atualizar
+$ npm update
 ```
 
 **Rode o Frontend na sua maquina**
@@ -125,7 +128,7 @@ Rotas da API
 Principal: 
 (get): http://localhost:8000
 
-Iinteressados
+Interessados
 (get): http://localhost:8000/mails
 (post): http://localhost:8000/email/plus
 
