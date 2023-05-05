@@ -12,15 +12,15 @@
  <h5>Nota: As inscrições também estão sendo salvas em Json porem casa inscrião tem seu proprio aqruivo e 
 	o nome de cada arquivo é o mesmo que o ID da inscrição</h5>
 
-**<a href='https://youtu.be/wbUN55Y-QBg'>Demostração</a>**
+**<a href='https://youtu.be/wbUN55Y-QBg'> Vídeo Demostração</a>**
 
 ## 🕸️ Baixar e Executar o projeto(Siga as instruções abaixo para execução)
 
-**° Baixar Teste**
+**Baixar Teste**
 ```
 $ git clone https://github.com/vandeilson01/LQDI_Teste
 ````
-**°Iniciar Backend**
+**Iniciar Backend**
 ```
 Acessar pasta
 $ cd\backend
@@ -160,24 +160,22 @@ Página 404:
 
 
 **Backend**
-<img src="https://user-images.githubusercontent.com/60020510/193612061-92155fbc-28b0-4b6d-b19f-cfd0c3f66629.png">
+
+<img src="[https://user-images.githubusercontent.com/60020510/193612061-92155fbc-28b0-4b6d-b19f-cfd0c3f66629.png](https://user-images.githubusercontent.com/60020510/236469500-bfd8f99b-7ffa-4f37-a2f8-c06b28921333.png)">
 
 **Frontend**
-<img src="https://user-images.githubusercontent.com/60020510/193612061-92155fbc-28b0-4b6d-b19f-cfd0c3f66629.png">
+
+<img src="https://user-images.githubusercontent.com/60020510/236470693-564a9abf-e8fa-406b-a046-e31beba19a18.png">
 
 ## 🚅 Telas
 
 **Desktop**
-<img src="https://user-images.githubusercontent.com/60020510/193612061-92155fbc-28b0-4b6d-b19f-cfd0c3f66629.png">
+
+<img src="https://user-images.githubusercontent.com/60020510/236469571-6ec75d8f-67f0-4d87-b382-a8e2a98da838.png">
 
 **Mobile**
-<img src="https://user-images.githubusercontent.com/60020510/193612097-35104bb2-b400-4ea0-bafe-c59b4eb302d8.png">
 
-
-**Ação Formulario de Inscrições**
-<img src="https://user-images.githubusercontent.com/60020510/193612097-35104bb2-b400-4ea0-bafe-c59b4eb302d8.png">
-<img src="https://user-images.githubusercontent.com/60020510/193612097-35104bb2-b400-4ea0-bafe-c59b4eb302d8.png">
-
+<img src="https://user-images.githubusercontent.com/60020510/236469564-89ba5bf3-ea3b-4380-bf10-44dd3492682d.png">
 
 
 
