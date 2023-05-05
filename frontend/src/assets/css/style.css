@@ -1,0 +1,61 @@
+/* Importando fonte */
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+
+/* Iniciando estilização */
+
+/* classes globais */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+:root, html, body{
+    font-family: Satoshi !important;
+    background-color: #F1F4F9;
+    letter-spacing: 1px;
+}
+
+ 
+ 
+
+section{
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+section article{
+    width: 100%;
+}
+
+  
+section article:nth-child(2){
+    background-color: #F1F4F9;
+    position: relative;
+    height: calc(100% - 200px) !important;
+}
+
+ 
+section article:nth-child(3){
+    background-color: #FFFFFF;
+}
+  
+
+section article:nth-child(4){
+    background-color: #FFFFFF;
+}
+
+.email-start{
+    background-color: #000000;
+    transition: 0.5s all;
+}
+
+.email-start:focus{
+    text-align: left !important;
+}
+
+@media only screen and (max-width: 1000px) {
+    .text-top-mes{
+        display: none;
+    }
+}
