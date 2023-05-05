@@ -71,7 +71,7 @@ $ php artisan db:seed RegistrationSeeder
 
 **Configurar o recebebimento de emails com MailTrap** 
 <h4>Acesse o <a href="https://mailtrap.io/">Mailtrap</a> e crie uma conta</h4>
-<img src="">
+<img src="https://user-images.githubusercontent.com/60020510/236472535-b3263313-5768-4906-b5a5-7bb34876f24a.png">
 
 <h4>Copie os dados de congiruações e substitua no .env</h4>
 
@@ -161,7 +161,7 @@ Página 404:
 
 **Backend**
 
-<img src="[https://user-images.githubusercontent.com/60020510/193612061-92155fbc-28b0-4b6d-b19f-cfd0c3f66629.png](https://user-images.githubusercontent.com/60020510/236469500-bfd8f99b-7ffa-4f37-a2f8-c06b28921333.png)">
+<img src="https://user-images.githubusercontent.com/60020510/236469500-bfd8f99b-7ffa-4f37-a2f8-c06b28921333.png">
 
 **Frontend**
 
@@ -177,6 +177,14 @@ Página 404:
 
 <img src="https://user-images.githubusercontent.com/60020510/236469564-89ba5bf3-ea3b-4380-bf10-44dd3492682d.png">
 
+
+**Emails interessados**
+
+<img src="https://user-images.githubusercontent.com/60020510/236469561-ca8e04cd-2fed-4075-8eb5-c7b81e4799be.png">
+
+**Inscrições**
+
+<img src="https://user-images.githubusercontent.com/60020510/236474521-a792c43e-15ba-4760-a01c-472dd72b0872.png">
 
 
 ## 🛠️ Tecnologias utilizadas
