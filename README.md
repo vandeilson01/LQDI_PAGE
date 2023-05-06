@@ -236,7 +236,7 @@ Página 404:
 
  <h4>Biblioteca(s): </h4>
  
-- RectBootstrap
+- ReactBootstrap
 - Sweetalert2
 - Jquery
 
