@@ -164,16 +164,18 @@ Página 404:
 **Incrições**
 <video src="https://user-images.githubusercontent.com/60020510/236608305-a06bea6d-e90d-4fed-b977-24ff11875e72.mp4"/>
 
+
+**<a href="https://youtu.be/nQog__XMpnE">Vídeo Completo</a>
 ## 📚 Pastas
 
 
 **Backend**
 
-<img src="https://user-images.githubusercontent.com/60020510/236469500-bfd8f99b-7ffa-4f37-a2f8-c06b28921333.png">
+<img height="400" src="https://user-images.githubusercontent.com/60020510/236469500-bfd8f99b-7ffa-4f37-a2f8-c06b28921333.png">
 
 **Frontend**
 
-<img src="https://user-images.githubusercontent.com/60020510/236470693-564a9abf-e8fa-406b-a046-e31beba19a18.png">
+<img height="400" src="https://user-images.githubusercontent.com/60020510/236470693-564a9abf-e8fa-406b-a046-e31beba19a18.png">
 
 ## 🚅 Telas
 
