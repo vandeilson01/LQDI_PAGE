@@ -5,12 +5,12 @@
 
 ## :hammer: Teste
 
- Este é o teste feito para a empresa LQDI Digital e realizado pelo autor deste repositório para a vaga de
- desenvolvedor Desenvolvedor PHP Sênior/Pleno.
+ Este é um teste feito para a empresa LQDI Digital e realizado pelo autor deste repositório para a vaga de Desenvolvedor PHP Sênior/Pleno.
  
  
  <h5>Nota: As inscrições também estão sendo salvas em Json porem cada inscrição tem seu proprio arquivo e 
 	o nome de cada arquivo é o mesmo que o Código ID da inscrição.</h5>
+	<h5Envio de inscrições por Email.</h5>
 
 
 
