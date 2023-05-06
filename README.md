@@ -181,7 +181,7 @@ Página 404:
 
 **Desktop**
 
-<img src="https://user-images.githubusercontent.com/60020510/236469571-6ec75d8f-67f0-4d87-b382-a8e2a98da838.png">
+<img height="400" src="https://user-images.githubusercontent.com/60020510/236469571-6ec75d8f-67f0-4d87-b382-a8e2a98da838.png">
 
 **Mobile**
 
