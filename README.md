@@ -33,7 +33,7 @@
 ```
 $ git clone https://github.com/vandeilson01/LQDI_Teste.git
 ````
-**Iniciar Backend**
+**Iniciar BackEnd**
 ```
 Acessar pasta
 $ cd LQDI_Teste\backend
@@ -98,13 +98,13 @@ MAIL_PASSWORD=senha
 MAIL_ENCRYPTION=tls
 ```
 
-**Rode o Backend na sua maquina**
+**Rode o BackEnd na sua maquina**
 ```
 $ php artisan serve
 ```
 	
 
-**Frontend**
+**FrontEnd**
 ```
 Acessar pasta
 $ cd LQDI_Teste\frontend
@@ -116,7 +116,7 @@ Caso queira somente atualizar
 $ npm update
 ```
 
-**Rode o Frontend na sua maquina**
+**Rode o FrontEnd na sua maquina**
 ```
 $ npm start
 
@@ -132,7 +132,7 @@ $ npm run build
 ## 🔗 Links 
 
 
-**Backend**
+**BackEnd**
 
 ```
 Rotas da API
@@ -150,7 +150,7 @@ Inscrições:
 
 ```
 
-**Frontend**
+**FrontEnd**
 
 ```
 Rotas das Páginas
@@ -173,11 +173,11 @@ Página 404:
 
 ## 📚 Pastas
 
-**Backend**
+**BackEnd**
 
 <img height="400" src="https://user-images.githubusercontent.com/60020510/236469500-bfd8f99b-7ffa-4f37-a2f8-c06b28921333.png">
 
-**Frontend**
+**FrontEnd**
 
 <img height="400" src="https://user-images.githubusercontent.com/60020510/236470693-564a9abf-e8fa-406b-a046-e31beba19a18.png">
 
@@ -209,7 +209,7 @@ Página 404:
 | --- | --- |
 | Composer | 2.5.* |
 
-**☕ Back end**
+**☕ BackEnd**
 
 | Linguagem | Versão |
 | --- | --- |
@@ -221,7 +221,7 @@ Página 404:
 
 <br/>
 
-**🎨 Front End**
+**🎨 FrontEnd**
 
 | Linguagem | Versão |
 | --- | --- |
