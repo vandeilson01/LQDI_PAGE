@@ -23,7 +23,7 @@ $ git clone https://github.com/vandeilson01/LQDI_Teste.git
 **Iniciar Backend**
 ```
 Acessar pasta
-$ cd backend
+$ cd LQDI_Teste\backend
 
 Instalar as depedências do composer
 $ composer install
