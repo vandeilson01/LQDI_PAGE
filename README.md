@@ -10,7 +10,7 @@
  
  <h5>Nota: As inscrições também estão sendo salvas em Json porem cada inscrição tem seu proprio arquivo e 
 	o nome de cada arquivo é o mesmo que o Código ID da inscrição.</h5>
-	<h5Envio de inscrições por Email.</h5>
+	<h5>Envio de inscrições por Email.</h5>
 
 
 
