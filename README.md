@@ -158,8 +158,6 @@ Página 404:
 
 ## 📹 Demonstração
 
-<video src="https://youtu.be/nQog__XMpnE" />
-
 <video controls>
   <source src="https://youtu.be/nQog__XMpnE" type="video/mp4">
 </video>
