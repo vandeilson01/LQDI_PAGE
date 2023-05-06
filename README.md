@@ -190,11 +190,11 @@ Página 404:
 
 **Emails interessados**
 
-<img src="https://user-images.githubusercontent.com/60020510/236469561-ca8e04cd-2fed-4075-8eb5-c7b81e4799be.png">
+<img height="700" src="https://user-images.githubusercontent.com/60020510/236469561-ca8e04cd-2fed-4075-8eb5-c7b81e4799be.png">
 
 **Inscrições**
 
-<img src="https://user-images.githubusercontent.com/60020510/236474521-a792c43e-15ba-4760-a01c-472dd72b0872.png">
+<img height="700" src="https://user-images.githubusercontent.com/60020510/236474521-a792c43e-15ba-4760-a01c-472dd72b0872.png">
 
 
 ## 🛠️ Tecnologias utilizadas
