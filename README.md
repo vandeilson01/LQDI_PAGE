@@ -9,10 +9,8 @@
  desenvolvedor Desenvolvedor PHP Sênior/Pleno.
  
  
- <h5>Nota: As inscrições também estão sendo salvas em Json porem cada inscrião tem seu proprio arquivo e 
+ <h5>Nota: As inscrições também estão sendo salvas em Json porem cada inscrição tem seu proprio arquivo e 
 	o nome de cada arquivo é o mesmo que o Código ID da inscrição.</h5>
-
-## 🕸️ Baixar e Executar o projeto(Siga as instruções abaixo para execução)
 
 
 
@@ -27,7 +25,8 @@
 
 
 **<a href="https://youtu.be/nQog__XMpnE">Vídeo Completo</a>**
-## 📚 Pastas
+
+## 🕸️ Baixar e Executar o projeto(Siga as instruções abaixo para execução)
 
 
 **Baixar Teste**
@@ -171,6 +170,8 @@ Inscricoes:
 Página 404:
 (get): http://localhost:3000/*
 ```
+
+## 📚 Pastas
 
 **Backend**
 
