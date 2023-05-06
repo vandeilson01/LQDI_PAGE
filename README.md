@@ -12,8 +12,6 @@
  <h5>Nota: As inscrições também estão sendo salvas em Json porem cada inscrião tem seu proprio arquivo e 
 	o nome de cada arquivo é o mesmo que o Código ID da inscrição.</h5>
 
-**<a href='https://youtu.be/nQog__XMpnE'>Vídeo de Demostração</a>**
-
 ## 🕸️ Baixar e Executar o projeto(Siga as instruções abaixo para execução)
 
 **Baixar Teste**
@@ -69,11 +67,11 @@ Dados de inscrições
 $ php artisan db:seed RegistrationSeeder
 ```
 
-**Configurar o recebebimento de emails com MailTrap** 
+**Configurar o recebimento de emails com MailTrap** 
 <h4>Acesse o <a href="https://mailtrap.io/">Mailtrap</a> e crie uma conta</h4>
 <img src="https://user-images.githubusercontent.com/60020510/236472535-b3263313-5768-4906-b5a5-7bb34876f24a.png">
 
-<h4>Copie os dados de congiruações e substitua no .env</h4>
+<h4>Copie os dados de configurações e substitua no .env</h4>
 
 **No arquivo .env deve ficar assim**
 ```
@@ -94,8 +92,7 @@ $ php artisan serve
 **Frontend**
 ```
 Acessar pasta
-$ cd ..
-$ cd frontend
+$ cd LQDI_Teste\frontend
 
 Instalar depedências
 $ npm install
@@ -158,6 +155,14 @@ Inscricoes:
 Página 404:
 (get): http://localhost:3000/*
 ```
+
+## 📹 Demonstração
+
+<video src="https://youtu.be/nQog__XMpnE" />
+
+<video controls>
+  <source src="https://youtu.be/nQog__XMpnE" type="video/mp4">
+</video>
 
 ## 📚 Pastas
 
