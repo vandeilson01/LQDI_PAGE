@@ -1,0 +1,694 @@
+/* Importando fonte */
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+
+/* Iniciando estilização */
+
+/* classes globais */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+:root, html, body{
+    font-family: Satoshi !important;
+    background-color: #FFFFFF;
+    letter-spacing: 1px;
+}
+
+button{
+    width: 120px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 30px 30px 30px 30px;
+    cursor: pointer;
+}
+
+
+/* cabeçario */
+
+/* header */
+
+header{
+    /* padding: 40px; */
+    background-color: #F1F4F9;
+    height: auto;
+    width: auto;
+    display: flex;
+    /* background-color: #F1F4F9; */
+    width: inherit;
+    display: flex;
+}
+
+
+/* navbar */
+
+
+nav:first-child{
+    /* background-color: #F1F4F9; */
+    width: 100%;
+    display: flex;
+    padding: 2%;
+    /* display: none; */
+    
+}
+
+nav:first-child div{
+    /* background-color: red; */
+    width: 100%;
+} 
+
+nav:first-child .left{
+    float: left;
+    width: 50%;
+    height: inherit;
+}
+
+nav:first-child .left img{
+    /* padding: 2%; */
+    margin-left: 2%;
+    /* border: 4px solid transparent; */
+    float: left;
+    /* background: #0AB2B7; */
+    width: 80px;
+    height: inherit;
+    max-height: inherit;
+}
+
+nav:first-child .right{
+    float: right;
+    text-align: right;
+    width: 50%;
+    height: inherit;
+    display: flex;
+    justify-content: right;
+}
+
+nav:first-child .right .text-right{
+    margin-left: 1%;
+    line-height: inherit;
+    color: #000000;
+    padding: 20px;
+}
+nav:first-child .right button{
+    margin-top: 10px;
+    background-color: #000000;
+    border: 1px solid #EEEEEE;
+    color: #FFFFFF;
+}
+
+
+nav:last-child{
+    background-color: transparent;
+    /* display: none; */
+    /* background-color: #F1F4F9; */
+    width: 100%;
+    /* display: flex; */
+    padding: 2%;
+    display: none;
+}
+ 
+
+nav:last-child .left{
+    float: left;
+    width: 50%;
+    height: inherit;
+}
+
+nav:last-child .left img{
+    /* padding: 2%; */
+    margin-left: 2%;
+    /* border: 4px solid transparent; */
+    float: left;
+    background: #F1F4F9;
+    width: 80px;
+    height: inherit;
+    max-height: inherit;
+}
+
+nav:last-child .right{
+    float: right;
+    width: 50%;
+    height: inherit;
+    display: flex;
+    justify-content: right;
+}
+
+nav:last-child .right .text-right{
+    margin-left: 1%;
+    line-height: inherit;
+    color: #000000;
+    padding: 20px;
+}
+nav:last-child .right button{
+    margin-top: 10px;
+    background-color: #000000;
+    border: 1px solid #EEEEEE;
+    color: #FFFFFF;
+}
+
+
+/* scroll */
+
+
+/* conatiner */
+
+/* section{
+    padding: 1%;
+} */
+
+.partial-one{
+    width: 100%;
+    height: auto;
+    background-color: #F1F4F9;
+    /* position: -ms-page; */
+    display: flex;
+    justify-content: center;
+    /* padding: 2%; */
+}
+
+.partial-one .col{
+    /* padding: 40px; */
+    /* float: left; */
+    text-align: left;
+    /* width: 40%; */
+    /* position: absolute; */
+    left: 0;
+    /* margin-left: 100px; */
+    width: inherit;
+    height: auto;
+    /* columns: 4 auto; */
+    padding: 2%;
+    position: relative;
+}
+ 
+.partial-one .col .first h1{
+    font-size: 37px;
+}
+
+.partial-one .col .first p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 800;
+}
+
+.partial-one .col .first button{
+    background-color: #0AB2B7;
+    border: none;
+    color: #FFFFFF;
+}
+
+.partial-one .col .first{
+    /* background-color: red; */
+    width: inherit;
+    height: auto;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* columns: 4 auto; */
+    position: relative;
+    background-color: red;
+}
+
+.partial-one .col .first .img-random{
+    display: flex;
+    /* position: relative; */
+}
+
+.partial-one .col .first .img-random div  img{
+    width: 280px;
+    /* position: absolute; */
+    margin-top: 100%;
+    /* float: left; */
+}
+.partial-one .col .first .img-random > div:nth-child(1){
+    height: max-content;
+    width: 600px;
+    background-color: yellow;
+}
+
+
+
+.partial-one .col .first .img-random div:nth-child(1) > img{
+    /* position: absolute; */
+    background-color: green;
+}
+
+
+/*  */
+
+
+.partial-two{
+    width: 100%;
+    background-color: #FFFFFF;
+    position: relative;
+    /* display: flex; */
+    justify-content: center;
+    margin-top: -120px;
+
+    
+
+    flex-wrap: wrap;
+    /* z-index: -1; */
+
+    /* position: static; */
+    display: flex;
+    justify-content: center;
+
+    /* columns: 2 auto; */
+}
+
+.partial-two .card-email{
+   
+    background-color: #FFFFFF;
+    /* margin-top: -230px; */
+    /* display: flex; */
+    /* columns: 3 auto; */
+    width: inherit;
+    padding: 2%;
+    text-align: center;
+    
+}
+
+.partial-two .cards{
+   
+    background-color: #FFFFFF;
+    /* margin-top: -100px; */
+    
+    display: flex;
+    columns: 3 auto;
+    /* width: 40%; */
+    /* padding: 2%; */
+}
+
+.partial-two .cards > div {
+    margin-top: 100px;
+}
+
+
+.partial-two .cards > div .content{
+    margin-top: 10px;
+    margin: 5%;
+    margin-bottom: 10px;
+    
+    position: relative;
+}
+
+.partial-two .cards > div .content h1{
+    margin-bottom: 13px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.partial-two .cards > div .content p{
+    margin-bottom: 50px;
+}
+.partial-two .cards > div .content a{
+   /* display: inline; */
+   /* margin-top: 100%; */
+   /* position: -ms-page; */
+   top: 0;
+    
+}
+
+.partial-two .cards > div img{
+    width: 90%;
+    height: 250px;
+    margin: 5%;
+    margin-top: 0%;
+    border-radius: 10px;
+    /* border: 1px solid #0AB2B7; */
+    background-color: #0AB2B7;
+}
+
+.partial-two .cards > .card-email{
+    text-align: center !important;
+    background-color: black;
+    border-radius: 10px;
+    color: #EEEEEE;
+}
+
+
+
+/* .partial-two .cards div:nth-child(1){
+    background-color: red;
+} */
+
+
+
+.partial-two .cards > div:not(.partial-two .cards > div:nth-child(3)){
+    /* background-color: red; */
+    width: 40%;
+    text-align: left;
+    margin: 1%;
+    /* background-color: #0AB2B7; */
+}
+
+.partial-two .cards > div:nth-child(3){
+    background-color: black;
+    width: 40%;
+    text-align: left;
+    margin: 1%;
+    /* background-color: gre en; */
+}
+
+.partial-two .cards > div{
+    margin-top: 220px !important;
+}
+
+.partial-two .cards > div:nth-child(3) h1{
+    margin-top: 50px;
+    /* margin-left: 7%; */
+    font-size: 25px;
+    text-align: left;
+    line-height: 110%;
+    letter-spacing: 1px;
+}
+
+
+.partial-two .cards > div:nth-child(3) div{
+    margin: 0%;
+    margin-top: 15%;
+}  
+
+.partial-two .cards > div:nth-child(3) label{
+    
+    /* display: none; */
+
+    text-align: left;
+    float: left;
+    width: 100%;
+    text-indent: 5%;
+}
+
+
+.partial-two .cards > div:nth-child(3) input{
+    background-color: #000000;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    margin-top: 10px;
+
+    width: 95%;
+    height: 30px;
+    padding: 10px;
+    border-radius: 30px 30px 30px 30px;
+    cursor: pointer;
+/* 
+    font-size: 16px;
+    letter-spacing: 1px; */
+
+    text-align: center;
+    font-size: 16px;
+
+    transition: 0.2s all;
+}
+
+.partial-two .cards > div:nth-child(3) input:hover{
+    background-color: #FFFFFF;
+    border-color:#000000;
+    color: #000000;
+    margin-top: 10px;
+ 
+
+    
+    letter-spacing: 1px;
+
+    /* text-align: left; */
+    
+}
+
+.partial-two .cards > div:nth-child(3) p{
+    text-align: left;
+    /* margin: 5%; */
+    margin-top: 100px;
+    
+}
+
+
+.partial-two .cards > div:nth-child(3) .social{
+    text-align: left;
+    /* margin: 5%; */
+    /* margin-bottom: 12%; */
+}
+
+/* partial-tree */
+
+.partial-tree{
+    display: flex;
+    /* flex-wrap: initial; */
+    margin-top: 100px;
+    justify-content: center;
+    /* position: relative; */
+    /* background-color: navy; */
+}
+
+.partial-tree > div{
+    width: 50%;
+}
+
+.partial-tree .col{
+    margin-bottom: 5%;
+    margin-top: 10px;
+    text-align: center;
+    position: static;
+    /* background-color: red; */
+    display: block;
+    justify-content: center;
+    /* flex: content; */
+    /* padding: 8%; */
+    /* position: relative; */
+
+    width: 50%;
+    /* margin-top: 10%; */
+    margin-left: 15%;
+    margin-right: 10%;
+
+}
+
+.partial-tree .col h1{
+    /* background-color: #0AB2B7; */
+    /* float: right; */
+    font-size: 30px;
+    margin-bottom: 22px;
+    /* width: 70%; */
+    
+    height: 110px;
+    text-align: left;
+    /* text-align: unset; */
+    /* position: static; */
+}
+
+.partial-tree .col p{
+    /* background-color: #0AB2B7; */
+    /* float: right; */
+    /* font-size: 30px; */
+    margin-bottom: 22px;
+    width: 400px;
+    text-align: left;
+    position: static;
+}
+.partial-tree .card-email{
+    width: 100%;
+    margin-bottom: 5%;
+    /* background-color: #0AB2B7; */
+}
+/* .partial-tree .card-email div:first-child{
+    margin-top: 70px;
+} */
+
+.partial-tree .card-email div:last-child{
+    display: flex;
+}
+
+.partial-tree .card-email form div:nth-child(5) p{
+    margin-bottom: 2%;
+    /* background: #53DB9D; */
+    
+}
+.partial-tree .card-email div:last-child span{
+    padding: 2%;
+    color: #53DB9D;
+    
+}
+
+.partial-tree div button{
+    padding: 2%;
+    background-color: #F1F4F9;
+    border: none;
+    margin-top: 10px;
+}
+
+.partial-tree .card-email form{
+    justify-self: start;
+    justify-content: start;
+    text-align: start;
+    width: 80%;
+    
+}
+.partial-tree .card-email form label{
+    float: inline-start;
+    text-align: left;
+    justify-content: left;
+    /* padding: 5%; */
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    /* background: blue; */
+}
+
+.partial-tree .card-email input:not(.partial-tree .card-email input[type="file"]){
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #F1F4F9;
+    border: none;
+    font-size: 15px;
+    text-indent: 2%;
+}
+
+
+
+.partial-tree .card-email input:focus{
+    border: none;
+}
+
+.partial-tree .card-email input:hover{
+    opacity: 0.9;
+}
+
+ 
+.partial-tree .card-email input[type="file"]{
+    border: 1px dashed #d8d4d4;
+    border-radius: 0.5em;
+    width: 90%;
+    /* padding: 2%; */
+    background-color: transparent;
+}
+.partial-tree .card-email input[type="file"]::file-selector-button {
+    margin-right: 20px;
+    border: none;
+    /* background: #084cdf; */
+    padding: 12px 20px;
+    height: inherit;
+    border-radius: 0 4px 4px 0;
+    color: rgba(16, 17, 19, 0.6);
+    cursor: pointer;
+    transition: .2s ease-in-out;
+    background-color: #F1F4F9;
+  }
+  
+  .partial-tree .card-email input[type="file"]::file-selector-button:hover {
+    opacity: 0.8;
+  }
+
+  
+/* .partial-tree .card-email label[for='file']{
+    padding: 5px 8px;
+    width: 200px;
+    background-color: #333;
+    color: #FFF;
+    text-transform: uppercase;
+     text-align: center;
+    display: block;
+    margin-top: 10px;
+    cursor: pointer;
+} */
+
+.partial-tree .card-email textarea{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 300px;
+    border-radius: 10px;
+    background-color: #F1F4F9;
+    border: none;
+    font-size: 15px;
+    text-indent: 2%;
+    font-family: Satoshi !important;
+    letter-spacing: 1px;
+}
+
+
+.partial-tree .card-email button{
+    /* display: none; */
+    margin-top: 20px;
+    background-color: #000000;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    transition: 0.4s all;
+ }
+
+
+ .partial-tree .card-email button:hover{
+    /* display: none; */
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 1px solid #000000;
+ }
+
+/* .partial-tree > div{
+
+} */
+
+ 
+
+/* footer */
+footer{
+    display: flex;
+    padding: 3%;
+    background-color: #000000;
+    color: #F1F4F9;
+}
+
+
+footer .col img{
+    width: 90px;
+    height: 50px;
+    /* background-color: #0AB2B7; */
+}
+
+footer .col p{
+    text-align: left;
+    margin-top: 10px;
+}
+
+footer .col:first-child{
+    width:50%;
+    text-align: left;
+}
+footer .col:nth-child(2) p:nth-child(3){
+    margin-top: 30px;
+}
+footer .col:nth-child(2){
+    width: 25%;
+}
+footer .col:last-child{
+    width: 25%;
+}
+footer .col:last-child p:nth-child(6){
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+footer .col:last-child p:nth-child(3){
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+/* versão para tabletes */
+
+@media only screen and (max-width: 1050px) {
+    section {
+        display: none;
+    }
+}
+  
+
+/* versão para celulares */
+
+@media only screen and (max-width: 600px) {
+    section {
+        background-color: lightblue;
+    }
+}
