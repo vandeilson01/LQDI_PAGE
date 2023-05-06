@@ -181,20 +181,20 @@ Página 404:
 
 **Desktop**
 
-<img height="500" src="https://user-images.githubusercontent.com/60020510/236469571-6ec75d8f-67f0-4d87-b382-a8e2a98da838.png">
+<img height="700" src="https://user-images.githubusercontent.com/60020510/236469571-6ec75d8f-67f0-4d87-b382-a8e2a98da838.png">
 
 **Mobile**
 
-<img height="500" src="https://user-images.githubusercontent.com/60020510/236469564-89ba5bf3-ea3b-4380-bf10-44dd3492682d.png">
+<img height="700" src="https://user-images.githubusercontent.com/60020510/236469564-89ba5bf3-ea3b-4380-bf10-44dd3492682d.png">
 
 
 **Emails interessados**
 
-<img height="700" src="https://user-images.githubusercontent.com/60020510/236469561-ca8e04cd-2fed-4075-8eb5-c7b81e4799be.png">
+<img height="400" src="https://user-images.githubusercontent.com/60020510/236469561-ca8e04cd-2fed-4075-8eb5-c7b81e4799be.png">
 
 **Inscrições**
 
-<img height="700" src="https://user-images.githubusercontent.com/60020510/236474521-a792c43e-15ba-4760-a01c-472dd72b0872.png">
+<img height="400" src="https://user-images.githubusercontent.com/60020510/236474521-a792c43e-15ba-4760-a01c-472dd72b0872.png">
 
 
 ## 🛠️ Tecnologias utilizadas
