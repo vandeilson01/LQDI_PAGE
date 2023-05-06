@@ -14,6 +14,22 @@
 
 ## 🕸️ Baixar e Executar o projeto(Siga as instruções abaixo para execução)
 
+
+
+
+## 📹 Demonstração
+
+**Cadastro de interessados**
+<video src="https://user-images.githubusercontent.com/60020510/236608494-e7b80f06-c347-46e2-a53d-4ad4e33908a6.mp4"/>
+
+**Incrições**
+<video src="https://user-images.githubusercontent.com/60020510/236608305-a06bea6d-e90d-4fed-b977-24ff11875e72.mp4"/>
+
+
+**<a href="https://youtu.be/nQog__XMpnE">Vídeo Completo</a>**
+## 📚 Pastas
+
+
 **Baixar Teste**
 ```
 $ git clone https://github.com/vandeilson01/LQDI_Teste.git
@@ -156,19 +172,6 @@ Página 404:
 (get): http://localhost:3000/*
 ```
 
-## 📹 Demonstração
-
-**Cadastro de interessados**
-<video src="https://user-images.githubusercontent.com/60020510/236608494-e7b80f06-c347-46e2-a53d-4ad4e33908a6.mp4"/>
-
-**Incrições**
-<video src="https://user-images.githubusercontent.com/60020510/236608305-a06bea6d-e90d-4fed-b977-24ff11875e72.mp4"/>
-
-
-**<a href="https://youtu.be/nQog__XMpnE">Vídeo Completo</a>
-## 📚 Pastas
-
-
 **Backend**
 
 <img height="400" src="https://user-images.githubusercontent.com/60020510/236469500-bfd8f99b-7ffa-4f37-a2f8-c06b28921333.png">
@@ -181,11 +184,11 @@ Página 404:
 
 **Desktop**
 
-<img height="700" src="https://user-images.githubusercontent.com/60020510/236469571-6ec75d8f-67f0-4d87-b382-a8e2a98da838.png">
+<img src="https://user-images.githubusercontent.com/60020510/236469571-6ec75d8f-67f0-4d87-b382-a8e2a98da838.png">
 
 **Mobile**
 
-<img height="700" src="https://user-images.githubusercontent.com/60020510/236469564-89ba5bf3-ea3b-4380-bf10-44dd3492682d.png">
+<img src="https://user-images.githubusercontent.com/60020510/236469564-89ba5bf3-ea3b-4380-bf10-44dd3492682d.png">
 
 
 **Emails interessados**
